@@ -18,6 +18,10 @@ Les données sont générées aléatoirement dans des plages réalistes, puis en
 - Utilisation de ROS2 avec **C++ et rclcpp**.
 
 ---
+## Image de simulation
+
+![Uploading Capture d'écran 2025-06-18 213256.png…]()
+
 
 ## 📦 Architecture
 
