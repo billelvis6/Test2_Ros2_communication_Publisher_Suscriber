@@ -77,15 +77,7 @@ Temp: 25.9°C | Humidity: 60.1% | Pressure: 1010.7 hPa
 ...
 ```
 
----
 
-## ⚠️ Limites
-
-* Pas de gestion d’erreur avancée dans certaines versions du subscriber.
-* Les valeurs sont générées aléatoirement (simulation uniquement).
-* Pas encore d’interface graphique ni de visualisation RViz.
-
----
 
 ## 📸 Exemple de simulation (si tu ajoutes une image plus tard)
 
