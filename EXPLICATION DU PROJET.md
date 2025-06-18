@@ -1,19 +1,4 @@
 
-### ✅ 1. Créer le fichier `README.md`
-
-Dans ton terminal (depuis la VM ou ailleurs dans le dossier du projet, par exemple `~/ros2_ws` ou dans le dossier `src/sensor_data_evaluation` si tu veux documenter ce package uniquement) :
-
-```bash
-nano README.md
-```
-
-Et colle ce contenu :
-
----
-
-### 📄 Exemple de contenu pour ton `README.md` :
-
-```markdown
 # 🚀 ROS2 Project – Communication Publisher/Subscriber
 
 Ce projet met en œuvre un système de communication de type **Publisher/Subscriber** sous **ROS2** utilisant le langage **C++**.
