@@ -21,6 +21,10 @@ Il reçoit les données, les **extrait**, les **affiche dans le terminal**, et *
   * Des alertes sont générées si une valeur dépasse une plage normale.
 
 ---
+### image de simulation 
+
+![Uploading Capture d'écran 2025-06-18 213231.png…]()
+
 
 ### 🧠 Explication du code
 
