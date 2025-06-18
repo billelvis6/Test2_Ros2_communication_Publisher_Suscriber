@@ -77,6 +77,11 @@ Temp: 25.9°C | Humidity: 60.1% | Pressure: 1010.7 hPa
 ...
 ```
 
+![Capture d'écran 2025-06-18 213256](https://github.com/user-attachments/assets/c2636450-2dab-454c-8394-eba25785abb8)
+
+![Capture d'écran 2025-06-18 213231](https://github.com/user-attachments/assets/03d0e820-98a6-48a5-b2da-d62f883124ff)
+
+
 
 
 ## 📸 Exemple de simulation (si tu ajoutes une image plus tard)
