@@ -1,8 +1,4 @@
- projet ROS2 avec `SensorPublisher
 
----
-
-```markdown
 # 📡 ROS2 Sensor Publisher
 
 ## 🧾 Description
@@ -102,13 +98,6 @@ float temperature = 15 + static_cast<float>(std::rand()) / (static_cast<float>(R
 * `rclcpp`
 * `std_msgs`
 
----
-
-## 📌 À faire
-
-* Ajouter un Subscriber ROS2 pour lire les données publiées.
-* Ajouter une interface graphique ou des visualisations avec `rqt_plot` ou RViz.
-* Simuler des erreurs ou des capteurs multiples.
 
 ---
 
